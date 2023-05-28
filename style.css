@@ -95,7 +95,7 @@ header {
 }
 .icon-close {
   position: absolute;
-  top:0;
+  top: 0;
   right: 0;
   width: 35px;
   height: 26px;
@@ -106,7 +106,8 @@ header {
   justify-content: center;
   text-align: center;
   border-bottom-left-radius: 15px;
-  cursor: pointer; */
+  cursor: pointer;
+  z-index: 1;
 }
 .form-box h2 {
   font-size: 2rem;
